@@ -23,13 +23,13 @@ body {
 }
 
 .gradient-bg-welcome {
-  background-color:#3f2d14;
-  background-image: 
+  background-color:#0f0f0e;
+  /* background-image: 
     radial-gradient(at 0% 0%, rgb(194, 37, 9) 0, transparent 50%), 
     radial-gradient(at 50% 0%, rgb(190, 99, 46) 0, transparent 50%), 
     radial-gradient(at 100% 0%, rgb(236, 173, 35) 0, transparent 50%);
+} */
 }
-
 .gradient-bg-services {
   background-color:#3a270d;
   background-image: 
@@ -38,17 +38,17 @@ body {
 }
 
 .gradient-bg-transactions {
-  background-color:#3a270d;
-  background-image: 
+  background-color:#050505;
+  /* background-image: 
   radial-gradient(at 0% 0%, rgb(236, 173, 35) 0, transparent 50%), 
-    radial-gradient(at 100% 0%, rgb(250, 42, 6) 0, transparent 50%);
+    radial-gradient(at 100% 0%, rgb(250, 42, 6) 0, transparent 50%); */
 }
 
 .gradient-bg-footer {
-  background-color:#3a270d;
+  background-color:#9b5a35;
   background-image: 
-  radial-gradient(at 0% 0%, rgb(179, 127, 79) 0, transparent 50%), 
-  radial-gradient(at 100% 0%, rgb(124, 68, 58) 0, transparent 50%);
+  radial-gradient(at 0% 0%, rgb(77, 75, 72) 0, transparent 50%), 
+  radial-gradient(at 100% 0%, rgb(70, 64, 64) 0, transparent 50%);
 }
 
 .blue-glassmorphism {
